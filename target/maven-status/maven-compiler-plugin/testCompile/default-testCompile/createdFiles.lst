@@ -1,0 +1,5 @@
+com/qa/Banking/Utilities/ReadConfig.class
+com/qa/Banking/Testcases/TC_LoginTest_001.class
+com/qa/Banking/Testcases/BaseClass.class
+com/qa/Banking/Utilities/Reporting.class
+com/qa/Banking/pageObject/LoginPage.class
